@@ -8,7 +8,7 @@ Before transitioning into tech, I worked as a Property Valuer. The skills I gain
 ### 🚀 My Passion and Specialization
 While my interest is particularly strong in backend development—building and connecting the systems that power user interfaces—I'm also proficient in full-stack technologies.
 
-### 🛠 Completed Bootcamp Projects
+### 🛠 Projects
 - **[Le'Make](https://le-make-aus-8f8ac96c24d6.herokuapp.com/)**: A Rails application for personalized cooking experiences. [GitHub Repo](https://github.com/vincent-tee/LEMAKE)
 - **[Good Chef](https://good-chef-3bb711b1c325.herokuapp.com/)**: A Rails application that connects users with private chefs. [GitHub Repo](https://github.com/vincent-tee/rent-a-chef)
 
