@@ -29,6 +29,5 @@ While my interest is particularly strong in backend development—building and c
 
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/vincent-tee-aus/)
-- [Personal Website](#)  <!-- Replace '#' with your personal website URL -->
 
 ### 🙏 Thanks for stopping by!
