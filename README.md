@@ -3,7 +3,7 @@
 🎓 I recently graduated from Le Wagon's Fullstack Web Development Bootcamp, where I gained practical skills in Ruby on Rails, JavaScript, and more.
 
 ### 🏠 From Property Valuer to Programmer
-Before transitioning into tech, I worked as a Property Valuer. The skills I gained in data analysis and problem-solving have been an asset as I venture into software development.
+Former municipal property valuer skilled in data analysis, precision, and problem-solving. Transitioning to tech with a focus on both full-stack and backend development, combining adaptability, analytical thinking, and data expertise to build efficient, secure, and compliant systems.
 
 ### 🚀 My Passion and Specialization
 While my interest is particularly strong in backend development—building and connecting the systems that power user interfaces—I'm also proficient in full-stack technologies.
