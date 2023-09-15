@@ -16,8 +16,8 @@ While my interest is particularly strong in backend development—building and c
 - Backend Frameworks (Rails, Django, Flask)
 - Full-stack JavaScript (Node.js, React)
 - Cloud Computing and Serverless Architectures
-- RESTful and GraphQL APIs
-- Relational and NoSQL Databases
+- RESTful APIs
+- Relational Databases
 
 ### 🌱 What I'm Learning
 - Currently diving into Python to expand my backend development toolkit.
