@@ -27,7 +27,8 @@ While my interest is particularly strong in backend development—building and c
 - Collaborating on intriguing projects, whether backend or full-stack.
 - Being mentored and connecting with other like-minded individuals in tech.
 
-### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/vincent-tee-aus/)
+### 📫 Let's Connect!
+
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/vincent-tee-aus/).
 
 ### 🙏 Thanks for stopping by!
